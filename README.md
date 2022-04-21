@@ -1,9 +1,9 @@
 # UD12-Team02-Ejercicio02
 Ejercicio 2. Academia de clases 
 
-Preview Ej 8 (falta declarar items)
+Preview Ej 8
 
-![image](https://user-images.githubusercontent.com/65864090/164273906-b3ef6d49-3e96-4edc-a560-bfb4a9dd1118.png)
+![image](https://user-images.githubusercontent.com/65864090/164392116-43b0ad87-d74c-4a76-8627-4e6586286349.png)
 
 Ej 2
 ![image](https://github.com/JagaScripts/UD12-Team02-Ejercicio02/blob/master/Ejercicio2Academia%20de%20clases.png)
