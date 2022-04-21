@@ -1,4 +1,4 @@
-# UD12-Team02-Ejercicio02
+# UD12-Team02-Ejercicio 02, 08 y 14
 Ejercicio 2. Academia de clases 
 
 Preview Ej 8
