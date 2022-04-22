@@ -5,7 +5,7 @@ Preview Ej 8
 
 
 
-![image](https://user-images.githubusercontent.com/65864090/164398468-9a7a7fd2-ead1-48f0-805a-aae90f10f3d7.png)
+![Untitled Diagram](https://user-images.githubusercontent.com/65864090/164624226-512f7854-9003-4b96-ae6d-92205ac47884.jpg)
 
 
 
