@@ -20,4 +20,4 @@ Ej 14
 
 
 
-![image](https://github.com/JagaScripts/UD12-Team02-Ejercicios-02-08-14/blob/master/Ejercicio2-14RedSocial.PNG)
+![image](https://github.com/JagaScripts/UD12-Team02-Ejercicios-02-08-14/blob/master/Ejercicio02-14RedSocial.PNG)
