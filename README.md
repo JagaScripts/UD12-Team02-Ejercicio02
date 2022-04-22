@@ -12,7 +12,7 @@ Preview Ej 8
 Ej 2
 
 
-![image](https://github.com/JagaScripts/UD12-Team02-Ejercicios-02-08-14/blob/master/Ejercicio2Academia_de_clases.png)
+![image](https://github.com/JagaScripts/UD12-Team02-Ejercicios-02-08-14/blob/master/Ejercicio2Academia_de_clases.jpg)
 
 
 
