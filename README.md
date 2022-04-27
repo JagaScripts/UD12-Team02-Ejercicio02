@@ -16,6 +16,10 @@ Ej 4
 
 ![image](https://github.com/JagaScripts/UD12-Team02-Ejercicios-02-08-14/blob/master/Ejercicio_4_Guerras.jpg)
 
+Ej 5
+
+![image](https://github.com/JagaScripts/UD12-Team02-Ejercicios-02-08-14/blob/master/ej5.jpg)
+
 Ej 6
 
 ![image](https://github.com/JagaScripts/UD12-Team02-Ejercicios-02-08-14/blob/master/Ex06-Prestamos.PNG)
