@@ -19,8 +19,22 @@ Ej 3
 
 ![image](https://github.com/JagaScripts/UD12-Team02-Ejercicios-02-08-14/blob/master/Ex03-Provincias.PNG)
 
+Ej 6
+
+![image](https://github.com/JagaScripts/UD12-Team02-Ejercicios-02-08-14/blob/master/Ex06-Prestamos.PNG)
+
+Ej 9 
+
+![image](https://github.com/JagaScripts/UD12-Team02-Ejercicios-02-08-14/blob/master/Ex09-Platos.PNG)
+
+Ej 12 
+
+![image](https://github.com/JagaScripts/UD12-Team02-Ejercicios-02-08-14/blob/master/Ex12-Proyecctos.PNG)
+
 Ej 14 
 
-
-
 ![image](https://github.com/JagaScripts/UD12-Team02-Ejercicios-02-08-14/blob/master/Ejercicio02-14RedSocial.PNG)
+
+Ej 15 
+
+![image](https://github.com/JagaScripts/UD12-Team02-Ejercicios-02-08-14/blob/master/Ex15-Menus.PNG)
