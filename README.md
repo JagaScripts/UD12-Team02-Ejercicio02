@@ -16,6 +16,10 @@ Ej 6
 
 ![image](https://github.com/JagaScripts/UD12-Team02-Ejercicios-02-08-14/blob/master/Ex06-Prestamos.PNG)
 
+Ej 7
+
+![image](https://github.com/JagaScripts/UD12-Team02-Ejercicios-02-08-14/blob/master/Ejercicio_7_Organigrama.jpg)
+
 Preview Ej 8
 
 ![Untitled Diagram](https://user-images.githubusercontent.com/65864090/164624226-512f7854-9003-4b96-ae6d-92205ac47884.jpg)
