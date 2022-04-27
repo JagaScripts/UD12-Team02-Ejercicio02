@@ -42,7 +42,7 @@ Ej 10
 
 Ej 11 
 
-![image] (https://github.com/JagaScripts/UD12-Team02-Ejercicios-02-08-14/blob/master/ej11.jpg)
+![image](https://github.com/JagaScripts/UD12-Team02-Ejercicios-02-08-14/blob/master/ej11.jpg)
 
 Ej 12 
 
