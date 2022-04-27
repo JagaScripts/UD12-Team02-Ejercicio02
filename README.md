@@ -4,9 +4,7 @@ Ejercicio 2. Academia de clases
 
 Ej 2
 
-
 ![image](https://github.com/JagaScripts/UD12-Team02-Ejercicios-02-08-14/blob/master/Ejercicio2Academia_de_clases.jpg)
-
 
 Ej 3 
 
@@ -59,5 +57,17 @@ Ej 14
 Ej 15 
 
 ![image](https://github.com/JagaScripts/UD12-Team02-Ejercicios-02-08-14/blob/master/Ex15-Menus.PNG)
+
+Ej 16
+
+![image](https://github.com/JagaScripts/UD12-Team02-Ejercicios-02-08-14/blob/master/ej16.jpg)
+
+Ej 17
+
+![image](https://github.com/JagaScripts/UD12-Team02-Ejercicios-02-08-14/blob/master/Ej17.jpg)
+
+Ej 18
+
+![image](https://github.com/JagaScripts/UD12-Team02-Ejercicios-02-08-14/blob/master/ej18.jpg)
 
 
