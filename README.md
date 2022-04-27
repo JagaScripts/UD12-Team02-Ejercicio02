@@ -40,6 +40,10 @@ Ej 12
 
 ![image](https://github.com/JagaScripts/UD12-Team02-Ejercicios-02-08-14/blob/master/Ex12-Proyecctos.PNG)
 
+Ej 13
+
+![image](https://github.com/JagaScripts/UD12-Team02-Ejercicios-02-08-14/blob/master/Ejercicio13Empresadecomidas.jpg)
+
 Ej 14 
 
 ![image](https://github.com/JagaScripts/UD12-Team02-Ejercicios-02-08-14/blob/master/Ejercicio02-14RedSocial.PNG)
