@@ -24,6 +24,10 @@ Ej 9
 
 ![image](https://github.com/JagaScripts/UD12-Team02-Ejercicios-02-08-14/blob/master/Ex09-PlatosPNG.PNG)
 
+Ej 10
+
+![image](https://github.com/JagaScripts/UD12-Team02-Ejercicios-02-08-14/blob/master/Ejercicio10Futbol.jpg)
+
 Ej 12 
 
 ![image](https://github.com/JagaScripts/UD12-Team02-Ejercicios-02-08-14/blob/master/Ex12-Proyecctos.PNG)
