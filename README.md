@@ -15,6 +15,9 @@ Ej 2
 ![image](https://github.com/JagaScripts/UD12-Team02-Ejercicios-02-08-14/blob/master/Ejercicio2Academia_de_clases.jpg)
 
 
+Ej 3 
+
+![image](https://github.com/JagaScripts/UD12-Team02-Ejercicios-02-08-14/blob/master/Ex03-Provincias.PNG)
 
 Ej 14 
 
