@@ -1,13 +1,6 @@
 # UD12-Team02-Ejercicios 02, 08 y 14
 Ejercicio 2. Academia de clases 
 
-Preview Ej 8
-
-
-
-![Untitled Diagram](https://user-images.githubusercontent.com/65864090/164624226-512f7854-9003-4b96-ae6d-92205ac47884.jpg)
-
-
 
 Ej 2
 
@@ -23,9 +16,13 @@ Ej 6
 
 ![image](https://github.com/JagaScripts/UD12-Team02-Ejercicios-02-08-14/blob/master/Ex06-Prestamos.PNG)
 
+Preview Ej 8
+
+![Untitled Diagram](https://user-images.githubusercontent.com/65864090/164624226-512f7854-9003-4b96-ae6d-92205ac47884.jpg)
+
 Ej 9 
 
-![image](https://github.com/JagaScripts/UD12-Team02-Ejercicios-02-08-14/blob/master/Ex09-Platos.PNG)
+![image](https://github.com/JagaScripts/UD12-Team02-Ejercicios-02-08-14/blob/master/Ex09-PlatosPNG.PNG)
 
 Ej 12 
 
